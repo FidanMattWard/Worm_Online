@@ -1,2 +1,3 @@
-# Worm_Online
-Браузерное приложение для прогулки червячка
+# MMO RPG With No Name (Yet)
+
+There is nothing to say about it yet...
